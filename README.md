@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🧠 MindDhara
 
-<!--
-**MindDhara/MindDhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Reimagining brain health for South Asian communities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Us
+MindDhara is dedicated to transforming how brain health and emotional care are understood and delivered.  
+We integrate global research, cultural context, and lived experiences to build inclusive and human-centered mental health systems.
+
+---
+
+## 🎯 Our Mission
+- Promote preventive mental health care  
+- Build trauma-informed support systems  
+- Empower individuals and communities  
+- Make mental wellness accessible and inclusive  
+
+---
+
+## 🚀 What We’re Building
+- Mental wellness platforms  
+- Digital health solutions  
+- Community-driven support systems  
+
+---
+
+## 🤝 Get Involved
+- Collaborate with us  
+- Contribute to projects  
+- Share ideas and feedback  
+
+---
+
+## 📫 Contact
+📍 Gurugram, Haryana, India  
+📧 hello@minddhara.com 
+🌐 https://minddhara.com/
