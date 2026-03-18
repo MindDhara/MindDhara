@@ -1,6 +1,6 @@
 # 🧠 MindDhara
 
-> Reimagining brain health for South Asian communities.
+> **Reimagining brain health for South Asian communities.**
 
 ---
 
@@ -33,6 +33,7 @@ We integrate global research, cultural context, and lived experiences to build i
 ---
 
 ## 📫 Contact
-📍 Gurugram, Haryana, India  
+📍 Gurugram, Haryana, India 
+
 📧 hello@minddhara.com 
 🌐 https://minddhara.com/
